@@ -1,2 +1,2 @@
-# DemonGamez official website
-My official website in 2023 for now.
+## This repostory code has been deleted or corrupted                 
+This code is not runnable
